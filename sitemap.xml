@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://realgoalrd.github.io/posts/blog-test/</loc>
+    <loc>http://example.org/posts/blog2/</loc>
+    <lastmod>2020-05-05T14:41:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-05-05T14:41:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-05-05T14:41:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/blog-test/</loc>
     <lastmod>2020-05-05T14:25:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://realgoalrd.github.io/</loc>
-    <lastmod>2020-05-05T14:25:24+08:00</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://realgoalrd.github.io/posts/</loc>
-    <lastmod>2020-05-05T14:25:24+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://realgoalrd.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://realgoalrd.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
